@@ -3,9 +3,9 @@
 ## KT Cloud
 
 * [SDDC 의 이해](README.md)
-  * [Project](kt-cloud/sddc/project.md)
-  * [VPC](kt-cloud/sddc/vpc.md)
-  * [Subnet](kt-cloud/sddc/subnet.md)
+  * [Project](kt-cloud/readme/project.md)
+  * [VPC](kt-cloud/readme/vpc.md)
+  * [Subnet](kt-cloud/readme/subnet.md)
 
 ## 기능 소개
 
