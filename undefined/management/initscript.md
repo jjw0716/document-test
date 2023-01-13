@@ -7,7 +7,7 @@ Server 생성 시 반드시 등록해야합니다.
 
 ### 예시 화면
 
-<figure><img src="../../.gitbook/assets/스크린샷 2023-01-11 오후 3.56.16.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/initscript-example.png" alt=""><figcaption></figcaption></figure>
 
 ### 예시 코드
 

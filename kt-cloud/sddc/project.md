@@ -6,4 +6,4 @@ SDDC 최상위 격리 단위로 한 계정 당 최대 3개의 Virtual Private Cl
 
 ### 이미지
 
-<figure><img src="../../.gitbook/assets/스크린샷 2023-01-11 오후 4.37.10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/project-info.png" alt=""><figcaption></figcaption></figure>
