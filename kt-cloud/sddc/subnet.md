@@ -8,4 +8,4 @@ VPC 내에서 Subnet Route를 통해 다른 Subnet과 통신이 가능합니다.
 
 ## 이미지
 
-<figure><img src="../../.gitbook/assets/스크린샷 2023-01-11 오후 4.36.41.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/스크린샷 2023-01-11 오후 4.36.41.png" alt=""><figcaption></figcaption></figure>
