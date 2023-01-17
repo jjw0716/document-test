@@ -1,7 +1,3 @@
----
-description: 프로젝트
----
-
 # Project
 
 ### 개요
